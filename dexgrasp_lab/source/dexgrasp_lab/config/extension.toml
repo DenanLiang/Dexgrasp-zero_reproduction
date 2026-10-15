@@ -1,0 +1,12 @@
+[package]
+version = "0.1.0"
+category = "isaaclab"
+title = "DexGrasp-Zero Direct Training"
+description = "Shared GNN training on object-only filtered CMAP train split"
+keywords = ["isaaclab", "direct", "dexgraspzero"]
+
+[dependencies]
+"isaaclab" = {}
+
+[[python.module]]
+name = "dexgrasp_lab"

@@ -1,0 +1,12 @@
+# Install inside the existing Python 3.11 Isaac Sim 5.1 environment.
+# Keep the installed Isaac Sim / CUDA / PyTorch packages.
+numpy
+scipy
+trimesh
+rtree
+PyYAML
+joblib
+scikit-learn
+urdf-parser-py
+torch-geometric
+matplotlib

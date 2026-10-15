@@ -1,0 +1,495 @@
+{
+  "objects": [
+    "002_master_chef_can",
+    "003_cracker_box",
+    "004_sugar_box",
+    "005_tomato_soup_can",
+    "006_mustard_bottle",
+    "007_tuna_fish_can",
+    "008_pudding_box",
+    "009_gelatin_box",
+    "010_potted_meat_can",
+    "011_banana",
+    "012_strawberry",
+    "013_apple",
+    "014_lemon",
+    "015_peach",
+    "016_pear",
+    "017_orange",
+    "018_plum",
+    "019_pitcher_base",
+    "021_bleach_cleanser",
+    "022_windex_bottle",
+    "024_bowl",
+    "025_mug",
+    "026_sponge",
+    "028_skillet_lid",
+    "029_plate",
+    "030_fork",
+    "031_spoon",
+    "032_knife",
+    "033_spatula",
+    "035_power_drill",
+    "036_wood_block",
+    "037_scissors",
+    "038_padlock",
+    "040_large_marker",
+    "042_adjustable_wrench",
+    "043_phillips_screwdriver",
+    "044_flat_screwdriver",
+    "048_hammer",
+    "050_medium_clamp",
+    "051_large_clamp",
+    "052_extra_large_clamp",
+    "053_mini_soccer_ball",
+    "054_softball",
+    "055_baseball",
+    "056_tennis_ball",
+    "057_racquetball",
+    "058_golf_ball",
+    "059_chain",
+    "061_foam_brick",
+    "062_dice",
+    "063-a_marbles",
+    "063-b_marbles",
+    "065-a_cups",
+    "065-b_cups",
+    "065-c_cups",
+    "065-d_cups",
+    "065-e_cups",
+    "065-f_cups",
+    "065-g_cups",
+    "065-h_cups",
+    "065-i_cups",
+    "065-j_cups",
+    "070-a_colored_wood_blocks",
+    "070-b_colored_wood_blocks",
+    "071_nine_hole_peg_test",
+    "072-a_toy_airplane",
+    "072-b_toy_airplane",
+    "072-c_toy_airplane",
+    "072-d_toy_airplane",
+    "072-e_toy_airplane",
+    "073-a_lego_duplo",
+    "073-b_lego_duplo",
+    "073-c_lego_duplo",
+    "073-d_lego_duplo",
+    "073-e_lego_duplo",
+    "073-f_lego_duplo",
+    "073-g_lego_duplo",
+    "077_rubiks_cube"
+  ],
+  "hands": [
+    "allegro",
+    "shadow",
+    "leap",
+    "inspire",
+    "ability",
+    "schunk",
+    "brainco",
+    "barrett"
+  ],
+  "versions": {
+    "numpy": "1.23.1",
+    "scipy": "1.10.1",
+    "scikit-learn": "1.3.2",
+    "trimesh": "4.8.3",
+    "torch": "2.3.0+cu118"
+  },
+  "python": "3.10.22 (main, Oct  1 2026, 20:14:04) [GCC 14.3.0]",
+  "helper_sha256": "e6dfeaaf18f2d27fe87ba3109438dd2c61e26d24f7ffcfdd1b07f869f8c983fb",
+  "inputs": {
+    "002_master_chef_can": {
+      "label": "3718e1707cfdde88493b343107f3b98bbe556a32f5e26b721383812d12b7a65d",
+      "mesh": "94334fee1546f674d4d6dcfbaf6f7b63d14ac34fabfe7a11d04f5abf5b806831",
+      "lowest": "717d928e0eaca71039e3f6a710c3c7e708922f36d79dcec139ffc4e17c6f5cd0"
+    },
+    "003_cracker_box": {
+      "label": "b9d265af4d56b9f4d91b0d6f23ff370bbd8a8fda851c0bde8081fe03a2930f97",
+      "mesh": "bb088ef8d17b87b5e6e1416c6a04b37fe1642b631a1faa84b40fae3821a9acf3",
+      "lowest": "ceacdcb44fe5dab9e92c645eb217b43d692765fd6ee852832b3782ad58c472e9"
+    },
+    "004_sugar_box": {
+      "label": "9ec6442f9a97949bb62aba55c759e497f0c069900c954fb7567798fede07fede",
+      "mesh": "d278cb966e90ed08532f447d7303465fa4e49c018e9bbda9c6866a243e953277",
+      "lowest": "77e8fa979b90a050bf5f272df10b1a549491b869aac183c39ff8fc34f5487b0a"
+    },
+    "005_tomato_soup_can": {
+      "label": "0014a648f568d64ebfe13ba814d0b372e7d42777a12b36af34cfa9a3d34f88a2",
+      "mesh": "f4a9bd1f4d933346ba33f3c0bb49a2ea55c17e140d85e1c28d8b167231ca64d4",
+      "lowest": "bc0838262ab417ca338753598dae6db372151f87d821188860ca34fecefac261"
+    },
+    "006_mustard_bottle": {
+      "label": "d04998faa66d70c8f51ea1f182b7f462613a048a2ade7e97b9852c95477e47b5",
+      "mesh": "d5e0a6810583ddf073a1586373a2511588f91921294e0323bf0ff1cbaf7ebce2",
+      "lowest": "b84ae967ea96a3227bb762320967abb28b7932093cc3733e9c425f8ceee03871"
+    },
+    "007_tuna_fish_can": {
+      "label": "b4aec3ada6b82086ab684148d7e2b48c8fe7d27ac442bb118cc685dd65aa74dd",
+      "mesh": "5be5dca8bec3a60157fe54000df997ddeb07448a1b66f01c76e74534f7445fb5",
+      "lowest": "a2a1192c771fef6320741881e228ee6f9302323611d56172c0b9d778c1519d44"
+    },
+    "008_pudding_box": {
+      "label": "d7b6bb5cf16a62a3750306a690684f577ef287fdc460ad87be25db662a6e3857",
+      "mesh": "49c16b2943066a0f77b25439d96bcb5076483a398a0cf89b87e7c14a8ac5bdc0",
+      "lowest": "3061272a00c1ef98d0a0a8f101a8de8b80d6eb957cf2bcb14a449e20245dc869"
+    },
+    "009_gelatin_box": {
+      "label": "894e096933c42bc567141de23339b75ceb6947a57961e76afc5ce582385044dd",
+      "mesh": "30e4a33960e8167327f77fba553334d00da60a738dab2f632cfd503c05994251",
+      "lowest": "e37fe4c678abb814b4db53d85a72b31bb0e358a900e78842938dd4b71058d968"
+    },
+    "010_potted_meat_can": {
+      "label": "2b9625e0eb3a2bc6e7dc83001428a71ad521497ccbbdd98fc7a2a0840486add9",
+      "mesh": "0327798c746db16e8dfa82cb5b59a9ac9b168922890f562119c449316bd7f8b9",
+      "lowest": "ccfaab3e7383bbec16da630c4785a725523282ab3235092b0fcfad079859c3d2"
+    },
+    "011_banana": {
+      "label": "d4e2c71104b35c327cf99cbe8250d2ee36c53ecd1b80c055232a02f4c00552ef",
+      "mesh": "87654ec52c0b146a531abab8d4ee731f426fbe4c8b1b059a291b8e80536aaeae",
+      "lowest": "ca8ec8497a8a2876476241e3114aa527891766a8c7b2130f774879be5e4a5c1a"
+    },
+    "012_strawberry": {
+      "label": "4c007f2d0f4069d97ddf1fa7080cacbeb9faee11170159c7ca1150272897bbd0",
+      "mesh": "7d3e073258e78c0cb09258b0984367194c2025c02687057a66442ae46684239b",
+      "lowest": "9b8e91fb310155897bec511da083e3feb3664183960f648e7e169446868a9557"
+    },
+    "013_apple": {
+      "label": "c20ee142000cf79bf39c9c10489af222b70271c73af28043ce61b5ab5ebe1d28",
+      "mesh": "233b3abaee0112a2f081fe935bd53ee8cb4cf11fc401a903ad4ef8e49f419e38",
+      "lowest": "4af5d32e9551e0f4340f79ddada2eb8434ce506b160d0aecca254ab6e8f3dbe7"
+    },
+    "014_lemon": {
+      "label": "e692222aee5132e8e0fccbedba9ef782560f318cab44d7bd98508af32321a991",
+      "mesh": "f4c9db2d2bf2f4b915ab5929deaf0e3c7773b2d43380142870bdf05e598bae63",
+      "lowest": "29951fcb3a59254a2120dce167baf71ef54f0aed9508c261b2ace564bdf78b01"
+    },
+    "015_peach": {
+      "label": "933f5d9ddf16fb72f5beefa1fce0358c0fdce0c4d642d5a0fe01a58fc6eb1726",
+      "mesh": "385f963e634cdb0cb498f6ec26024e357b8177d21626feed3b0fa7b4ffa610d2",
+      "lowest": "db0e36d0bcb70d95d975576d409a518b24c6930e10d9c16567ead54569ada96e"
+    },
+    "016_pear": {
+      "label": "4c8c1f126eb6709e5d610a0be369747a584e74e811d6b6594134527906897129",
+      "mesh": "64e1e17dc0cc69c0ea601ada6d9c92e99e8ccf9df888d9186a50b79c07f135d9",
+      "lowest": "a2c94bc05eb8f61357471d26ace10e2464baf6344f63f10ff966c6b68fe3fabf"
+    },
+    "017_orange": {
+      "label": "9693ca229425f47e23e365a5f6095eee5c0b5b85381c0c9d61516922e0a4ef36",
+      "mesh": "be0b4b4d4ad7657179c49a0c298901f9ca1be50804307f9b4d565d83cedcdf20",
+      "lowest": "c1aee1f02838cc736fd4d681e423818983f2f0c532baa920dddace88cd409b8c"
+    },
+    "018_plum": {
+      "label": "c0d312d64fd633a8e35cdd0647cb1b8e2428ace0e2a6e7d75aaa51ed443bcfb6",
+      "mesh": "01816dd8b808551d028b0ede88a6add6a530074b8e5a79b30575ccb652f025a0",
+      "lowest": "7774d64a191b03a71ef8fc2e8e102aa188f296916f9e29ac7638f9cb64d0dfcb"
+    },
+    "019_pitcher_base": {
+      "label": "cb91b931b8e94eab946160717d75be532baeae9cbfeb88313b4e565eb49d83e3",
+      "mesh": "b3dd0c81ddcd327c3fb796b234060f48a54f6cccc52e45dd417496d02b227ba6",
+      "lowest": "37aca877df6f61a58d7e14c2fac125dbfd19f1917f1d50b4b9d83620e07a34ce"
+    },
+    "021_bleach_cleanser": {
+      "label": "f462642a16a3e8e1e811973bf1edbd8089d4eba7f8449b239117b771c0800d0f",
+      "mesh": "aa1d3477a2c242713d310dc9f4eef54150f0c42d703a858d6388263a8e7dfa80",
+      "lowest": "92531f46f7c8a2721ee6cf1666b8ec01de08e5ca7498f18bf8629ba1bbc6aaa9"
+    },
+    "022_windex_bottle": {
+      "label": "dbffe1708c40823576842abed08f06754bf867a1e1db2a058e37316e40c146dd",
+      "mesh": "446f085e9be022ebf4b1f50ff89669baf1b8ca70d23550d5435089200152b28c",
+      "lowest": "8bac6d589e62fbbd82ef04280d6d06dd9db273fc88f8c4545273265fdc9e1eea"
+    },
+    "024_bowl": {
+      "label": "54568a90b98222cf44d217ab8ee6926e175b6d88043d3ce80eb3d65967d5922b",
+      "mesh": "c58aa668521439822fdd9f05b452474aeccdf09ee6afb41ee176a6ae7984b26d",
+      "lowest": "16df5c1ab7e0a71804bbf33545c2a1fc3710279246b770fb840e4d7378edc913"
+    },
+    "025_mug": {
+      "label": "75c9851e5f6be30cede9cd5dd53c084241017ac4e257824fae6523beab83888c",
+      "mesh": "fa25c0351cdc18afe534a33d466bd297f185b9decdb1d974a52c29299ac83663",
+      "lowest": "c10459a2a2e6da2d491eff10f27bb932a6dfbad85ca7d52ea791edcd796062ac"
+    },
+    "026_sponge": {
+      "label": "2b55088f2d00ee51d8c5be80829cf6aa9660d38d0201b10f41422aa6fabdc406",
+      "mesh": "447cf4e171d8e2e08ce5cdc6a7fd9b172a8673f4892aba7f271927c6f818cbe7",
+      "lowest": "4aacc4943383e32e81314937efb0a64c3eac911b7fa0cc3d7cf4c40f0360c430"
+    },
+    "028_skillet_lid": {
+      "label": "de0fb70767596ae2fd4c6c36a02a0b320ce0a0610d0eeda93526a3b700f487d3",
+      "mesh": "d00ebe63a37c9dab8385e45e93de736c1c46666f55789fd3609d02572c0622ea",
+      "lowest": "4643c40df070adbd40e5c7eda7cdb644d514123a32956cff34a493936a520842"
+    },
+    "029_plate": {
+      "label": "086301ebc0b54cd675a41010e08ecacd69db35da4c24cc7020c0d0aaa0437378",
+      "mesh": "652e45a200a522b9c3cbcd7ba80e1bd6b46e14310ba38b43ea87fa076cc031fc",
+      "lowest": "546c0584b8d71098574510945563785cd683f8d900a4cea5beec14ce8bd40a14"
+    },
+    "030_fork": {
+      "label": "416c309b0aca701e01846c0193b40e3169cfb5e45a7744b346f2a614ccb47289",
+      "mesh": "e7ac22e210f69e2ae73daecfbd62ef727d6fc5ab940a4718ed8e51772f4609e6",
+      "lowest": "61cab9c81d57b86f7f1c872d1d187238f2dc906eedf43b02c93e71f084c4b511"
+    },
+    "031_spoon": {
+      "label": "bc47c5ebff66ed3789c72ad411d7d63b8930de30ea665a5bcc506fa992ab2521",
+      "mesh": "e65cee59348f4fafb0646f1edb3394e791626800bae7c0f58b54012aca914714",
+      "lowest": "4f621505f36da27d4e18791bffb41fa99767876d9e656b0d3074a890e7dad954"
+    },
+    "032_knife": {
+      "label": "ef53fb2d5e455a872b091e487a2202e471cbe460e54dc00c98166349e4448244",
+      "mesh": "0086a5b926cbf61b9a6fd6808c6b1d949ee5cbc840f314fd7d86f463fb372d17",
+      "lowest": "0bce62e9d81fd12a3e0938f4142bb8d6cf97fc1bfb8c7cc86f588a50fdeeb2be"
+    },
+    "033_spatula": {
+      "label": "d3932e8789dff6c0316ca8f324721fba9b95e8c752c5c3483f8f2b5851008009",
+      "mesh": "abd5733f961c7242afd0f041b99c2c3b6c0b3de02641e998d919e2ff45e2a225",
+      "lowest": "f0414bea2ba22a3cd3a3940f4bf32d68ffca42cd20863dbf3023d2e97b6415dd"
+    },
+    "035_power_drill": {
+      "label": "b3a2bfe7fe5f8e93590fad5f49b341d7b3769e61c06a24d33b43fc70c9d32cab",
+      "mesh": "156cd3b55b0dd69125de3187c31d749ef9bb7688a6bbce51ea2a0ff889738c97",
+      "lowest": "857c03d571e9c0b7d8d75abf62daeac097d9c763088246d35b66088bfe95e4ba"
+    },
+    "036_wood_block": {
+      "label": "2454e73dc9d3562a85c12c41f897608c1fd7c0635b5928778ebecf5a9a2db4d4",
+      "mesh": "8349e06481c17f46bb92abf4f4e476088d6439d3abf999c97607b81d47b23a6b",
+      "lowest": "72c9999307338c6899c096371a70839ce860ff02d2d51753d4b0ee561e5f0cfa"
+    },
+    "037_scissors": {
+      "label": "5379ee9933a9ac13cd1c6e51459c1f0d105a9a62e0efa931afd26ca4da949a19",
+      "mesh": "372f89e3752cc36927012ca448de2d805cb5a0197ca5b1a6820c1fb698df218e",
+      "lowest": "45646f83387afee9581d0c82b1aae7d03820991c4124c4df69237d6cab3e0530"
+    },
+    "038_padlock": {
+      "label": "43c16c3a9d7f8bbd39c41eb9fd6f67e3eaf15de1e354303a7c8eacea21fe2a52",
+      "mesh": "c1aadfd836d785811a482561a8c8dbdd33fac71ebee134573f8aa0e175629b7f",
+      "lowest": "2407b1cbd8b8327f8eff80627db4c032297e093f27679f98ce17f090240a7c2d"
+    },
+    "040_large_marker": {
+      "label": "41c45ae9b02a3c49f112ed5357da86a30c47c28c4c1cdeb2a56b10ecf8468b9b",
+      "mesh": "55c0db91d7819a94f0d1f291e78f459174f9a3abbaa7592f5140b13771388664",
+      "lowest": "d0e1f85b9a5384ebc2a1d9d2d6e0ba66f60e5e59841da1a6ab4ff62c8404325d"
+    },
+    "042_adjustable_wrench": {
+      "label": "000000a7dffa2939bd54c3746166fa4bfafcc48165a5ecb329e20da862f44445",
+      "mesh": "a865bbe6469386ef2f7e5564ea169c60ebd895519a952d80308a57d6e49771de",
+      "lowest": "86e43c52c17e43bfc96d804c7f83c860f1127bb961c78772becf423a6fbdbc0e"
+    },
+    "043_phillips_screwdriver": {
+      "label": "45e958a2ad19956e75f890d7cc3de94f7d7426d2a33cdc61c30ba7b2ec229176",
+      "mesh": "41391db78af3ea8a11dc0e83c4219464f12b5114ab01c07d6b334a533e07a334",
+      "lowest": "7ed0ca9becbede38a06d338581de2dce8f6a7ed622155f7e308f0b773bd8f4e6"
+    },
+    "044_flat_screwdriver": {
+      "label": "395504d3adfd8e69f9edca39fdc7bc794fabc73efffedd2bdce045995bb904f2",
+      "mesh": "aca45a8cb266f9fd8898439e37dcd1d504aa94f66696a84af5d8267d2fc11bdb",
+      "lowest": "4c9a30c531c0b76e39112fab34ae05d2ff06c6b6c8a58b27d895a7c2083cdbed"
+    },
+    "048_hammer": {
+      "label": "f9900d93c21e6d8cc4d850d77d81cf83007cabe8fbced27f3c79262fe1c15519",
+      "mesh": "667d9e9b48bac24e1e3218b2a445c5056dbdae1c7618382cb414c8956ea9b2e3",
+      "lowest": "305f80320e4eee13acc404d0efa05f60765a36304fa30d3378d944ff23faefbf"
+    },
+    "050_medium_clamp": {
+      "label": "12c518a30c862f76bb492f899ed85553cbfabffcc960f85399657ed8ab610fbe",
+      "mesh": "f5a2dfafe40e35eff9efcf4fad5a061f1ef7acccfb759faf237bb8786212fe6c",
+      "lowest": "36a466f6f3dbcc4f6ba6b872dccadd6ba926d35cfbb01f084f35a7c419d6de49"
+    },
+    "051_large_clamp": {
+      "label": "babe0a5cfdb60ff17ca7c35273ddc6d38b9f2e8ba6015d5f255775472ed51951",
+      "mesh": "3e0cc0b32ccab6b8472bf84c3ca9a81958408286733b6a902a1f72f995612981",
+      "lowest": "f0bab0814baea431467b90dca5730c59d56261d50900c41a07c4c616f6bae0d2"
+    },
+    "052_extra_large_clamp": {
+      "label": "affa45fed222794fe5a2559a7ac4cb9230e1295450df6a41f48056ea38598e1c",
+      "mesh": "21a4dcdd72032001cf34505612458a318cd677cd4410a4dc18286aaef810d4f6",
+      "lowest": "10f15a3557e0359da0731ff2936ec5c3abe67bb481999f7909b9776d4a63bb0c"
+    },
+    "053_mini_soccer_ball": {
+      "label": "963b669e58fd4e065ff91ef5a9b41db117075aaa2e358c4cb02168a87c642a46",
+      "mesh": "a362986c66dac21b6e24476680502def78133b907c08d532c9055d76256c2488",
+      "lowest": "d9f4e0ca96a0656e8443184773b4401b2711048ed5409ddc015d5b212f2e560f"
+    },
+    "054_softball": {
+      "label": "fedbe66145c1b77dc7585f546d4bbd31ba5160d42082ffd2b8ba9cdab636e54c",
+      "mesh": "9b85f3bd8fa15e56a636256ffca890ab75b5144816bfd9e9fa7a8d5cd550bff3",
+      "lowest": "b62d121df477c225c7d29e6b048ac75b7dbc7b1b30cac9b50e72d6104ddf80ec"
+    },
+    "055_baseball": {
+      "label": "de12dcac52fc6834ea99a164c087f1e75cd3cfe608abec673293c767724321d2",
+      "mesh": "6c4f14a3b7cf0ad3dbe82d9cf80924f4edce2119b0067ec7d9b78d4540778a65",
+      "lowest": "2b43b9d86e86f3954e3d227906fbafa1539ccc1e5bcb25823a7cd72a96ceab0a"
+    },
+    "056_tennis_ball": {
+      "label": "6655d1422434a8e57c312f732c7e02879e19635a88eb178a886ea34001b2416a",
+      "mesh": "b77788f644210d9fc7e9d1503c6e7b3000ec48e79f1bcdb39b350f0bf463d7fa",
+      "lowest": "8dc7b8fb32c07202d29f664a4f36f1aa585986509ee035d2f03165f9e18b781d"
+    },
+    "057_racquetball": {
+      "label": "11977254c6c88c0c29e3d26a7a5877c3f27ce8adefb390c0437fdeb48a526b3e",
+      "mesh": "f13f492a127ebc23180e032c270fb2c5dbed745992dcc829126b081475f06737",
+      "lowest": "1a79f2ad821f1b010e243fb456abfa5db5680c8162915d5427162c13617100ef"
+    },
+    "058_golf_ball": {
+      "label": "41e38a1c531d5e4955326222f070fbc24a4195c528c978c0db06f677e73ad40c",
+      "mesh": "2e6ed1f60b57da45153c994033711ff0737a3d838a5089d4f48e974ff185d39f",
+      "lowest": "5c879f7fc387b13a6326850627f309963c14f314e8d4c41f5e84d8e4796079d9"
+    },
+    "059_chain": {
+      "label": "118fa50e4acb8b6bc14186913907a218d7b8bdc374254b3de59614cebc9b5bef",
+      "mesh": "c4be612a8a30ffd56da7d85243d06e5767825141dceda90d62999f8f8b0480c1",
+      "lowest": "92e436c97b66c465a74562c94bd2a4ff56e905dcdf7ebd6314ce8164f4aa2ee4"
+    },
+    "061_foam_brick": {
+      "label": "850cf20dbebd9ae0dbc1f763f7f94ce26478006d04f1ce540813bc0731cef585",
+      "mesh": "617db7160e8c58a0ba30773aca349a20e46bbc7cac22d5a9ae4873c21db808d1",
+      "lowest": "5ce8c8c34e6d797fa8a30f3fcda16c031c935a8fe99fab48a20e7c25f1445988"
+    },
+    "062_dice": {
+      "label": "bc49a49f027de65cdc7922016dbca64e7f9c5738afd5f983a80e68e87b252ea2",
+      "mesh": "5930d1e6fae35e006fdcccebd55e3719a13d9ded5d69cff22e9ede68be10ca4c",
+      "lowest": "32a79d203c385e99bc6523ed36e9b050bb70cc3542c93b044813cd7135794aff"
+    },
+    "063-a_marbles": {
+      "label": "c91141a281de4be3094fadfcaa65218e1f98286827f8d8d9fd31e27f9a065607",
+      "mesh": "a6ae7ce500201d3f7d8c482effd226a8a06b9ecb7cad03e6856bfbd9c4ef94f2",
+      "lowest": "4065931a3cce8da214c72bc3d32f228a467e61ba148710afa8512dc15c997d03"
+    },
+    "063-b_marbles": {
+      "label": "aa0dc94d678517020d42a76889777b2a5497e631333692aefbd181dba08af386",
+      "mesh": "a31711f46f130130c6514f1fd7693389a899a74f154501ad8fcbeb058385884e",
+      "lowest": "52154a6d225e2a7f25b0695af47883ff32b05051853a7df0a5fd01cb8f87f138"
+    },
+    "065-a_cups": {
+      "label": "5b17e97dab9b00f7a57257aece6a482109d6847de9d2f6fa265b22202acfad47",
+      "mesh": "8a2245c67c8c5a8c02b91d5e78931370f51d981685af8a74e3cdf9c7b57f9d83",
+      "lowest": "fcffb254da603cc3c5d3ccd3e971ffce705b245be5d96710e4df406d3716bc12"
+    },
+    "065-b_cups": {
+      "label": "3700fbbed81c7d9d6ba212bf022d327fc1903e548ff1689f647a6758d9c488f8",
+      "mesh": "29b8b96cdbf5bdcd3bfde22c85d17b5e50b797f63c24f17979dbaabdd2dfa898",
+      "lowest": "757ceac28a81b36c33fc508420aa6025c27d03dd71511eefb0633127053f9691"
+    },
+    "065-c_cups": {
+      "label": "fdb14db4a62ca9b228d37d97dbacad2cf317eda17d805c8ef1686bf27efba739",
+      "mesh": "1aeddd46b8432617acc9d1892068abdb42dc41efa5a7ea3946dcded79e270015",
+      "lowest": "9de5263ea01ec8ee9b044c2514d19d0d3a9fe4d7202f74b9b22305da244c254a"
+    },
+    "065-d_cups": {
+      "label": "a44bdf6f5f2c06292aa6467045359566e60cf2240487bfd0a6d2edd298d2f201",
+      "mesh": "16b942be200c9da171748de3b3ed4f2998a6a7424e687c95b7cd2a7fa1db2368",
+      "lowest": "46da007b7e1c5a1c8b80b5d2166fdcc4a99d25dd2c5bf11f2fd4e35f34d8c20c"
+    },
+    "065-e_cups": {
+      "label": "fecdc46de36f8783ed193cb228fafac6d204965c4b2943c417cafbab6f003a09",
+      "mesh": "905f3044ff5542d61c43b049d23270b8d6b8c346d4d3d70187867eb7245ff967",
+      "lowest": "7edb80099f948dc569a2e886c42d3196a51672f6ba16f81054255d91125a4d3e"
+    },
+    "065-f_cups": {
+      "label": "b5235fd6f93e10ac4a47be3a762def7e32c59fe036db9e43ad5f085b0f2de405",
+      "mesh": "449ade29da5f3de71daf84ed01d4d70e8260901cac1c69a30032280c7174c6c8",
+      "lowest": "d9b274770da7bd87614744ff2d7f0be9e90e9361c55b84bdf634ee6833dd26cf"
+    },
+    "065-g_cups": {
+      "label": "27e7d44f9ead779c4fb07ff74f6f15099ee444375bb91de601341b69bcccd51a",
+      "mesh": "16381b0675ab61efdec1580f43ffca74d6922014e5441c31170610933cfdad1d",
+      "lowest": "2a8561397a45c81b6d94e92d5c2d24a6d21fa3fe8e97cb9d80caff9937eede83"
+    },
+    "065-h_cups": {
+      "label": "b43d4940a1fb0fe144ceb5896692ca760cd15c73838094e53bc06e51b88ac93d",
+      "mesh": "f844cd1a5b43f320d0c19a5c4946663af35a2de58d000ec096f478ee1ce6a812",
+      "lowest": "82c2f1a53910ef297d41777969ce590aa21ba7080401dea459669012a1d576fd"
+    },
+    "065-i_cups": {
+      "label": "2d9a29a5c42f182a57d72ff4921a207be75e47eeb6bc95c8a930374b9e5ad4fe",
+      "mesh": "e0606109f47bbee1e9134c9ad102b6409c8447ea9acffef54667957885c7f820",
+      "lowest": "8ee3cf9772043a0257775fe8078cf51e5c0585456f8e8578afecc743debd3a14"
+    },
+    "065-j_cups": {
+      "label": "c154c25561db0bbc8b4ca613ed676e2e060fb05477e2fe72b122a1b7f981d798",
+      "mesh": "221f503506c09c1b6b5f03f3980bea71ea4056497ea9c87ff84a18a93d5d3210",
+      "lowest": "33868834aabb35e4f8b4d2d97b4fa191f1b08eb64b25ac4bd1706f65849383cd"
+    },
+    "070-a_colored_wood_blocks": {
+      "label": "e84e501f11e86dc711f8098de04b1415866cbfa26b92935bc4afb1efdfe80b66",
+      "mesh": "2949ad0ec9d5d15e259b7df7e37fff771bc967bfca45dbf3b228e789a5b573e7",
+      "lowest": "363249b5d808f7d3b09e3f95098d9e812bbd38b0df0b45b9ba6cbe4108a4afc8"
+    },
+    "070-b_colored_wood_blocks": {
+      "label": "8420f09ecde4ed58e93e85c89c0b48ab755c36c35b4d7572c4dafc2affb40769",
+      "mesh": "ff7eddf8352dac1877b742f76d29c978d33e40c47d21f536deeaa3027fd70732",
+      "lowest": "934c2b433360f95cee922794635b9b8d4f6546298fe3dda54be8e83d6e556593"
+    },
+    "071_nine_hole_peg_test": {
+      "label": "9c242dfdca84e7e8d199aca73f0408f6caf675d1f80a75e1167491f1e8a62ea3",
+      "mesh": "abebdb79c8ecbf09bed96d8ae4cc2bc80ddb1e4a59a32e7108efc126b2695370",
+      "lowest": "0c6b72f0296b19c43a1b72329695c35e917085bb9cc1420fdd53a7b357491319"
+    },
+    "072-a_toy_airplane": {
+      "label": "a539e63be553f2b822ecac96373439a2b59dc67f57d0b7a29b46eaa74c32c188",
+      "mesh": "78d2a177df91224662e44b11c3c4bc1469dbbfc7e7c637da8f61462ba683ea60",
+      "lowest": "69761841e836ae939f9ce8ab4910a9cd31c8cfe7af942ab7f05b9d185b86c251"
+    },
+    "072-b_toy_airplane": {
+      "label": "8de34f9a54514ad3289e0c4aff1bbd8c7ef181663b238010e6e9955f3aee6910",
+      "mesh": "2ce26a4c2c03e58b891396c4e3a88588dec0531d3f0449c3dc5f923d85c731ae",
+      "lowest": "e8d7beb2e051187a20ac8155b30b8f2875bb8c8f05e8a06426685654eb0699f8"
+    },
+    "072-c_toy_airplane": {
+      "label": "088c5b0dfef8218ab8dc645a5c249716a4c6fe20e876403c25cc70c9ad72c278",
+      "mesh": "1faab3b0eb0beb210140c862226ecdeb9ac78a6b644641a4e5486ed994ea2322",
+      "lowest": "ebb7db37d7619e65c390b53c2b45aa161aaa1be7069ed9227c391dbb7aba6776"
+    },
+    "072-d_toy_airplane": {
+      "label": "3f9c3d3f42e7586fc184ed682a190c6df65bf9cddc78e0274b57591a66cc1afc",
+      "mesh": "a583bff69bcec2021d12af621f1917a8c33808b57bff60b5783cfc3a349e45ee",
+      "lowest": "907786f6b5c941266c2f5042edec4baa627329a9c02a3de4107472376e40345f"
+    },
+    "072-e_toy_airplane": {
+      "label": "a4fba367f18edb4d3c88fe26b228a1a18533aaa4680e90bedf8c2ea50cffe05b",
+      "mesh": "585309ab6ffa3416f6ceee7d95c6226cbb3e4b695c368f022e8e2f193bb71c17",
+      "lowest": "023a98957a509eeee6b06f42b19c11fd54ab01e737c9e4672778e0384d75b4f5"
+    },
+    "073-a_lego_duplo": {
+      "label": "e9c59211ee59a84be5e2242d1057e0feee39efe196e6780508a565a60496f4e5",
+      "mesh": "471fcd931acff9fa9d4617adf6ed94454560f306f6af6bf6f19ef6a000beba11",
+      "lowest": "7fdb550afb43055f86a477518d189e8c17bb608733c63a4167615fa10c892e69"
+    },
+    "073-b_lego_duplo": {
+      "label": "7dc32dedad27ef858dd75d3418477ccb015b77596123158ccc5c60d67a7c5c89",
+      "mesh": "a310e93312e54fb6f9592ffb0cceacb3df5f66e503414ada0c92fc45cb85e80a",
+      "lowest": "1ed20bc4859d5eb292bc3cb7c4420a4b44533e4f45d6932b8cc4738705f5ce26"
+    },
+    "073-c_lego_duplo": {
+      "label": "b2252e7c890cd5725edc540b019258333ea4068835f0b4ae453af44d6fd6854a",
+      "mesh": "ac6ae920113d2e50031a8ee0986357bc567933f03736f5c8cdde8c9c50f6b417",
+      "lowest": "1aa0e31497942cdad780353b488db0108071b0ebd1240b2a230f81ace5ceb4a2"
+    },
+    "073-d_lego_duplo": {
+      "label": "3a87cea8af8664025cdad17547e082e46293fe541d4b5ceaf7f879feced14933",
+      "mesh": "1d07231afccb54d29ed6cd7aa492a42dac55376c5a2fe4337f90d100688efa75",
+      "lowest": "1243f0d9d7e8470fd0b366435c0b1fdf90c4dd9a534a4e8639abf891dd2e573c"
+    },
+    "073-e_lego_duplo": {
+      "label": "2bc306da153e20c266ca0f9cc926a5e065509927fc72e74adc2bd388dd7b491b",
+      "mesh": "fe32bb0220861958b7bb365005444c1d4874ef543033032e5176c3fb0c866a60",
+      "lowest": "10b71dc696a9ff30017c2a5c102792456c8c175bcbcdc89a4f9e742e4941d742"
+    },
+    "073-f_lego_duplo": {
+      "label": "1debb954b5c0fc179951581db480d481160075a49b987aa2325d32b7bc10219f",
+      "mesh": "8d2122bbd842baacb16950de85027919d95d826bacba91bec9981231a0c76b1f",
+      "lowest": "9071c26d4de57cef428ac516dd138a8c2268d8519ec234456dd6742ddb930822"
+    },
+    "073-g_lego_duplo": {
+      "label": "100b41a9a3c0448ecb55386f21002d83292ab361a1d9d8f49925f5bc3b7b0d6f",
+      "mesh": "31f720fab083cf6404112f02af0390e90d6ea24cebf76af4d004827b4f189888",
+      "lowest": "b9ab267e0ae04395f7df53bb601933fb1f9cdf6b05c14015c2703ba346cc7150"
+    },
+    "077_rubiks_cube": {
+      "label": "a729e8a3054ae841983767d3e9ce92a4ee7a6b54636bda055442cee7b6f91b97",
+      "mesh": "627fb72baec40359b45357ae5ab9bc29d2b29b72dddcee5b57c9df7df9a13ab5",
+      "lowest": "f2d56d73e380f5eff08d08abaed1b907b7d70f4a7fdb5c11ec152a2912f3ce2f"
+    }
+  },
+  "layout": "wrist_position(3), wrist_rotation_matrix(9), object_position(3), target_center(3)",
+  "archive_sha256": "19fc7139a3ed69c66eb3ff289b78b014f1070e660d958d38d383380acae29200"
+}
